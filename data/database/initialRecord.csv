@@ -1,0 +1,2012 @@
+{"20G88CG2J":{
+  "tag": "#20G88CG2J",
+  "name": "Relics Valiant",
+  "description": "Relics|d!scord.gg/relics|d!scord.gg/valiant|DailyTourneys+LadderRewards+ClubContests|Kicked? >Relics Titans",
+  "type": "inviteOnly",
+  "badgeId": 8000003,
+  "requiredTrophies": 23000,
+  "trophies": 2520017,
+  "members": [
+    {
+      "tag": "#G02RUYQ",
+      "name": "S.Bisht7",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 31748,
+      "icon": {
+        "id": 28000004
+      }
+    },
+    {
+      "tag": "#8Q09J2",
+      "name": "ghoul13",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 31237,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#RCVGULU8",
+      "name": "The Alligator🐊",
+      "nameColor": "0xffa8e132",
+      "role": "senior",
+      "trophies": 29837,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#LVURY2C",
+      "name": "Prince",
+      "nameColor": "0xff4ddba2",
+      "role": "vicePresident",
+      "trophies": 29421,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#PUQUYPGV",
+      "name": "MASTER ARNAV",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 28812,
+      "icon": {
+        "id": 28000024
+      }
+    },
+    {
+      "tag": "#9Q8R2V0VJ",
+      "name": "Tribe|CR7⚽️",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 28810,
+      "icon": {
+        "id": 28000056
+      }
+    },
+    {
+      "tag": "#20JLV0YC8",
+      "name": "AV CHAMP",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 28674,
+      "icon": {
+        "id": 28000030
+      }
+    },
+    {
+      "tag": "#2809VRC8",
+      "name": "ɳσッɱεя¢¥",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 28481,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#YRCCQJPC",
+      "name": "LøñeWølf",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 28474,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#2GJG2C800",
+      "name": "SmarthGuy|セクシ✨",
+      "nameColor": "0xffa8e132",
+      "role": "vicePresident",
+      "trophies": 28440,
+      "icon": {
+        "id": 28000031
+      }
+    },
+    {
+      "tag": "#809RQLVUY",
+      "name": "Maximus",
+      "nameColor": "0xff1ba5f5",
+      "role": "vicePresident",
+      "trophies": 28422,
+      "icon": {
+        "id": 28000015
+      }
+    },
+    {
+      "tag": "#PGUPVR0J",
+      "name": "❄️Ash King❄️",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 28145,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#C2P8VPP2",
+      "name": "No Mercy",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 28053,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#VJYYRQR2",
+      "name": "LINK",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 27434,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#290RVPLLY",
+      "name": "ryuzaki",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 27074,
+      "icon": {
+        "id": 28000004
+      }
+    },
+    {
+      "tag": "#9988989U",
+      "name": "Imshrood",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 26826,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#VQY9CG8U",
+      "name": "Death Gun",
+      "nameColor": "0xfff05637",
+      "role": "senior",
+      "trophies": 26706,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#22VPPLVPY",
+      "name": "SoggyMustacheツ",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 26632,
+      "icon": {
+        "id": 28000008
+      }
+    },
+    {
+      "tag": "#G20QCUL",
+      "name": "Mr Nobody ☠️",
+      "nameColor": "0xffff9727",
+      "role": "vicePresident",
+      "trophies": 26519,
+      "icon": {
+        "id": 28000020
+      }
+    },
+    {
+      "tag": "#2L9PLJ9Q",
+      "name": "AH|Xtylish",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 26479,
+      "icon": {
+        "id": 28000000
+      }
+    },
+    {
+      "tag": "#2QV9JGVYR",
+      "name": "\"रावण\"",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 26325,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#2PRY0RJPV",
+      "name": "PAVAN",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 26179,
+      "icon": {
+        "id": 28000029
+      }
+    },
+    {
+      "tag": "#GYY8CYRV",
+      "name": "ELECTRIC GUITAR",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 26120,
+      "icon": {
+        "id": 28000044
+      }
+    },
+    {
+      "tag": "#22R8U2QUC",
+      "name": "Mihawk 神",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 26050,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2ULY2J2",
+      "name": "kabira speaking",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 25975,
+      "icon": {
+        "id": 28000052
+      }
+    },
+    {
+      "tag": "#8UJ28CLY",
+      "name": "ASH KING",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 25929,
+      "icon": {
+        "id": 28000002
+      }
+    },
+    {
+      "tag": "#2L2RYYLLV",
+      "name": "Khibra-X",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 25862,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#Y9URJ0RC",
+      "name": "ICÈMÀN",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 25784,
+      "icon": {
+        "id": 28000050
+      }
+    },
+    {
+      "tag": "#2LUJ0R8PV",
+      "name": "NOOB",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 25612,
+      "icon": {
+        "id": 28000002
+      }
+    },
+    {
+      "tag": "#RR292Q80",
+      "name": "Awesome",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 25587,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#22Q8Y82GV",
+      "name": "legend viki",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 25568,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#292V2PYR",
+      "name": "Kira :)",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 25529,
+      "icon": {
+        "id": 28000005
+      }
+    },
+    {
+      "tag": "#VQL000RC",
+      "name": "joney",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 25483,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#YV2Q2J0",
+      "name": "M | D ⚡",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 25451,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#Q02U0R0G",
+      "name": "Oof|Toxic Coke☠",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 25450,
+      "icon": {
+        "id": 28000002
+      }
+    },
+    {
+      "tag": "#YJUL29C",
+      "name": "「ARIF™|火社算大",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 25376,
+      "icon": {
+        "id": 28000047
+      }
+    },
+    {
+      "tag": "#8PQ808U",
+      "name": "Greystorm™",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 25376,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#2G20Q8R00",
+      "name": "H Ë i $ T Ź",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 25342,
+      "icon": {
+        "id": 28000031
+      }
+    },
+    {
+      "tag": "#RVGLUQ0",
+      "name": "championgamerYT",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 25298,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#88C9RCV9C",
+      "name": "Aryan's Sister",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 25252,
+      "icon": {
+        "id": 28000000
+      }
+    },
+    {
+      "tag": "#2VRPLVQUC",
+      "name": "shyam",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 25215,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#8CV9G8QV",
+      "name": "Ayush Verma",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 25211,
+      "icon": {
+        "id": 28000004
+      }
+    },
+    {
+      "tag": "#GRU9290V",
+      "name": "Captain Shiraj",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 25147,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2YGR0QLY",
+      "name": "DIZZY",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 25145,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#8C0LRPLL",
+      "name": "Clumsy_Guy >.<",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 25107,
+      "icon": {
+        "id": 28000029
+      }
+    },
+    {
+      "tag": "#PLQ9G0GY",
+      "name": "SavageSasukeMC",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 25089,
+      "icon": {
+        "id": 28000029
+      }
+    },
+    {
+      "tag": "#22QVCRJJC",
+      "name": "Soultaker",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 24931,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#2VYLJ90L",
+      "name": "Majkel‼️=)",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 24925,
+      "icon": {
+        "id": 28000020
+      }
+    },
+    {
+      "tag": "#LRCJGL99",
+      "name": "H¥DRA | HARSH",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 24824,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#UQR2JCV8",
+      "name": "Soul",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 24735,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#8UY8L09R",
+      "name": "SIDDHARTH",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 24726,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#80YPVJVYQ",
+      "name": "ϻ'ˡᵈ下ᵃˡ匚ºⁿᵉ尺",
+      "nameColor": "0xffff9727",
+      "role": "senior",
+      "trophies": 24715,
+      "icon": {
+        "id": 28000015
+      }
+    },
+    {
+      "tag": "#2PVPJU2PL",
+      "name": "DR@KE||RIT@M",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 24609,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#20CY2202J",
+      "name": "King Warlord",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 24550,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#2GLY80002",
+      "name": "τєѕℓα",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 24533,
+      "icon": {
+        "id": 28000022
+      }
+    },
+    {
+      "tag": "#2JCLQCV",
+      "name": "Mukund NF",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 24529,
+      "icon": {
+        "id": 28000019
+      }
+    },
+    {
+      "tag": "#2CPJLJ09C",
+      "name": "#кЪсМеТлИя",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 24496,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#GGRC8QCJ",
+      "name": "HunterDP",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 24487,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#Q28QQLGG",
+      "name": "NOOB 100%",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 24475,
+      "icon": {
+        "id": 28000039
+      }
+    },
+    {
+      "tag": "#9PY2GU9GY",
+      "name": "★彡[Harsh]彡★",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 24429,
+      "icon": {
+        "id": 28000015
+      }
+    },
+    {
+      "tag": "#2U20JGL9",
+      "name": "☆Amulya ;)",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 24402,
+      "icon": {
+        "id": 28000038
+      }
+    },
+    {
+      "tag": "#YCUJJGL2",
+      "name": "gaurav3467",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 24400,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#89Q2UPQQ",
+      "name": "AshizREDZ",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 24362,
+      "icon": {
+        "id": 28000047
+      }
+    },
+    {
+      "tag": "#8V98Q002",
+      "name": "⊙SHIVAM⊙",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 24241,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#2JL0LYCR",
+      "name": "#Dr.Thuganomics",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 24219,
+      "icon": {
+        "id": 28000013
+      }
+    },
+    {
+      "tag": "#2PLJVLGRQ",
+      "name": "Arty",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 24197,
+      "icon": {
+        "id": 28000044
+      }
+    },
+    {
+      "tag": "#88Y98YUG",
+      "name": "VÉÑØM",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 24163,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#2GJJRPRGY",
+      "name": "Kurse",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 24134,
+      "icon": {
+        "id": 28000029
+      }
+    },
+    {
+      "tag": "#2Q00LGLP",
+      "name": "HYDRA SHIWAL",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 24117,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#9YJ2C89",
+      "name": "Prem",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 24031,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#22Y8QVGJU",
+      "name": "Blaze",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 23944,
+      "icon": {
+        "id": 28000043
+      }
+    },
+    {
+      "tag": "#RYUL0VGP",
+      "name": "GX Kekko",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 23933,
+      "icon": {
+        "id": 28000039
+      }
+    },
+    {
+      "tag": "#9JQYQ00G2",
+      "name": "Markipoo",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 23908,
+      "icon": {
+        "id": 28000047
+      }
+    },
+    {
+      "tag": "#8J0RJYUV8",
+      "name": "W.NABIL",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 23905,
+      "icon": {
+        "id": 28000044
+      }
+    },
+    {
+      "tag": "#2VGJ8VU88",
+      "name": "QLS|DANO⚡™️",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 23880,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#2CY0288Q",
+      "name": "doodlefishhh",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 23744,
+      "icon": {
+        "id": 28000021
+      }
+    },
+    {
+      "tag": "#L2LPG802",
+      "name": "RompoSlime🐍",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 23724,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#88CV02P89",
+      "name": "Negan",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 23666,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#8YPV20VG",
+      "name": "tornado",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 23624,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#2C8G8VP",
+      "name": "KINGSMAN",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 23594,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#Y2R999VV",
+      "name": "VooDoo",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 23590,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#YG9UY",
+      "name": "SKYWALKER_YT",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 23551,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#R9RY0UQ9",
+      "name": "IND|Lucifer",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 23525,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#CYP80UG8",
+      "name": "Sarb Gaming",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 23524,
+      "icon": {
+        "id": 28000044
+      }
+    },
+    {
+      "tag": "#QCCG09R",
+      "name": "I'mNotKidding",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 23499,
+      "icon": {
+        "id": 28000030
+      }
+    },
+    {
+      "tag": "#CGPYYJG",
+      "name": "MR. D€V",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 23499,
+      "icon": {
+        "id": 28000019
+      }
+    },
+    {
+      "tag": "#92CL0G8J",
+      "name": "❄Bittu❄",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 23490,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2YVJG0CJC",
+      "name": "LA|Bear",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 23451,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2CP8QCUQ",
+      "name": "Aban",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 23395,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#GLCCU820",
+      "name": "sarthak",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 23393,
+      "icon": {
+        "id": 28000002
+      }
+    },
+    {
+      "tag": "#2L2G9C2L",
+      "name": "IX | Kaffy >.<",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 23359,
+      "icon": {
+        "id": 28000038
+      }
+    },
+    {
+      "tag": "#9LR9JQVRG",
+      "name": "warločík'sk",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 23303,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#YRY9GYJ",
+      "name": "❄️Anmol❄️",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 23195,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#29P9YYU9",
+      "name": "THE HULK",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 23181,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#28Q0YUG9V",
+      "name": "Atanu",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 23105,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#2JUUQY8",
+      "name": "0v3r9000x",
+      "nameColor": "0xffcb5aff",
+      "role": "vicePresident",
+      "trophies": 23092,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#20C2VRCUP",
+      "name": "naz",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 23069,
+      "icon": {
+        "id": 28000043
+      }
+    },
+    {
+      "tag": "#2G80RYGL",
+      "name": "Kamalesh",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 22924,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#CQVG9PU2",
+      "name": "⚔GOD of WAR4⚔",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 22916,
+      "icon": {
+        "id": 28000039
+      }
+    },
+    {
+      "tag": "#LJCPJVRP",
+      "name": "Jim Laker",
+      "nameColor": "0xffcb5aff",
+      "role": "president",
+      "trophies": 21118,
+      "icon": {
+        "id": 28000041
+      }
+    },
+    {
+      "tag": "#9UGV9C8",
+      "name": "LLYRA",
+      "nameColor": "0xffcb5aff",
+      "role": "vicePresident",
+      "trophies": 23541,
+      "icon": {
+        "id": 28000006
+      }
+    },
+    {
+      "tag": "#YPJ8J98J",
+      "name": "SMURFY",
+      "nameColor": "0xffff9727",
+      "role": "senior",
+      "trophies": 23414,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#R8P89U0R",
+      "name": "Manu(Mr.X)",
+      "nameColor": "0xffcb5aff",
+      "role": "vicePresident",
+      "trophies": 23188,
+      "icon": {
+        "id": 28000029
+      }
+    },
+    {
+      "tag": "#88YL8C8",
+      "name": "TEJWIZ",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 22714,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#20J9J00PR",
+      "name": "waqar",
+      "nameColor": "0xffa8e132",
+      "role": "senior",
+      "trophies": 22630,
+      "icon": {
+        "id": 28000056
+      }
+    },
+    {
+      "tag": "#2C8G2R0",
+      "name": "ॐ●iblameRahul●ॐ",
+      "nameColor": "0xff1ba5f5",
+      "role": "vicePresident",
+      "trophies": 22343,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#2YYVPPPUU",
+      "name": "Karan Mafia",
+      "nameColor": "0xfff05637",
+      "role": "vicePresident",
+      "trophies": 22190,
+      "icon": {
+        "id": 28000007
+      }
+    },
+    {
+      "tag": "#29LY9U8Y9",
+      "name": "D€VIL G@M€R",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 22001,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#YV9R2PYJ",
+      "name": "kehe ke lunga",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 21941,
+      "icon": {
+        "id": 28000050
+      }
+    },
+    {
+      "tag": "#282RG9LCQ",
+      "name": "GLADIATOR AYUSH",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 21709,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#20J2PC998",
+      "name": "Devansh",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 21672,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#29QCPLPRR",
+      "name": "Siris",
+      "nameColor": "0xff4ddba2",
+      "role": "vicePresident",
+      "trophies": 21395,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#8G992QULY",
+      "name": "Frikibot☠️",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 21282,
+      "icon": {
+        "id": 28000003
+      }
+    },
+    {
+      "tag": "#2PR0CYL",
+      "name": "Shariq",
+      "nameColor": "0xfff9c908",
+      "role": "president",
+      "trophies": 21230,
+      "icon": {
+        "id": 28000045
+      }
+    },
+    {
+      "tag": "#2LY0G8LG",
+      "name": "⚡️Yash⚡️",
+      "nameColor": "0xffa2e3fe",
+      "role": "vicePresident",
+      "trophies": 21172,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#9VJP0LV",
+      "name": "❄️IMACROW❄️",
+      "nameColor": "0xfff9c908",
+      "role": "senior",
+      "trophies": 21035,
+      "icon": {
+        "id": 28000020
+      }
+    },
+    {
+      "tag": "#8JCLR00C",
+      "name": "E.N.D || AKASHI",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 21006,
+      "icon": {
+        "id": 28000041
+      }
+    },
+    {
+      "tag": "#2GJR8LYLR",
+      "name": "彡★ᴾᴿᴼ『KING』★彡",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 20896,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#2PYURR0R",
+      "name": "Sandeep",
+      "nameColor": "0xffa8e132",
+      "role": "senior",
+      "trophies": 20789,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#R9P2P0L8",
+      "name": "TØXÏÇ Ç€ÑÄ",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 20723,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#YYPPP9L",
+      "name": "Havok",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 20535,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#80GQ9UQ",
+      "name": "Assasin",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 20522,
+      "icon": {
+        "id": 28000029
+      }
+    },
+    {
+      "tag": "#LQU80UGL",
+      "name": "CHΔOS",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 20442,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#2JUUGR8P",
+      "name": "farhan",
+      "nameColor": "0xffa2e3fe",
+      "role": "senior",
+      "trophies": 20306,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#RV920GG",
+      "name": "rushabh",
+      "nameColor": "0xffa8e132",
+      "role": "senior",
+      "trophies": 20243,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#PYJ0GP9U",
+      "name": "rogue18",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 20194,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#P8GUR2YQY",
+      "name": "Siddhaarth",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 20193,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#2PRGV2JJL",
+      "name": "Daddy69Prince",
+      "nameColor": "0xff1ba5f5",
+      "role": "vicePresident",
+      "trophies": 20172,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#GJLYJGCQ",
+      "name": "RJ7",
+      "nameColor": "0xffff9727",
+      "role": "vicePresident",
+      "trophies": 20118,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#YV8UQYQ",
+      "name": "ѕкυℓℓ ¢яυѕнєя",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 20107,
+      "icon": {
+        "id": 28000022
+      }
+    },
+    {
+      "tag": "#9P0PUUC",
+      "name": "\\/@ŘűÑ|°_°|",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 20087,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#LR89JRVU",
+      "name": "Rohitooo",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 19925,
+      "icon": {
+        "id": 28000004
+      }
+    },
+    {
+      "tag": "#L2LCL99V",
+      "name": "RED JOHN ^.^",
+      "nameColor": "0xfff05637",
+      "role": "senior",
+      "trophies": 19803,
+      "icon": {
+        "id": 28000002
+      }
+    },
+    {
+      "tag": "#P9GJG2C8L",
+      "name": "doctor strange",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 19411,
+      "icon": {
+        "id": 28000051
+      }
+    },
+    {
+      "tag": "#RG2UVULC",
+      "name": "cr7",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 19363,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#GUQ2GC",
+      "name": "Bumblèè Bèè",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 19172,
+      "icon": {
+        "id": 28000032
+      }
+    },
+    {
+      "tag": "#2CCLPLLQ9",
+      "name": "€D¡TH*",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 19117,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#2JUY0JPLU",
+      "name": "tanish",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 19067,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#URJUJ8RJ",
+      "name": "MasterMortis_YT",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 19026,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2VVP29VCU",
+      "name": "Abeeshake",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 18978,
+      "icon": {
+        "id": 28000035
+      }
+    },
+    {
+      "tag": "#8UVGV08QL",
+      "name": "DRUVITH",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 18886,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#2UYU22PQC",
+      "name": "akmahajan",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 18847,
+      "icon": {
+        "id": 28000055
+      }
+    },
+    {
+      "tag": "#9PPUVPY00",
+      "name": "Kɪɴᴇᴛɪᴄ★Kʀᴀᴋᴇɴ",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 18738,
+      "icon": {
+        "id": 28000047
+      }
+    },
+    {
+      "tag": "#8YYLYP8YR",
+      "name": "Royalking",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 18634,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#R08YGL2J",
+      "name": "Anshul",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 18581,
+      "icon": {
+        "id": 28000047
+      }
+    },
+    {
+      "tag": "#8PJPPGQ",
+      "name": "sid",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 18240,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#U2CJ",
+      "name": "warun",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 18235,
+      "icon": {
+        "id": 28000050
+      }
+    },
+    {
+      "tag": "#LJV80RL",
+      "name": "∆ᴳᵒᵈ✪༼ҡɪɴɢ༽ᴾᴿᴼツ",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 18120,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#VJUCRGPQ",
+      "name": "Aditya",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 18101,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#2UJR0LCL",
+      "name": "DeadShot",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 18025,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#8R2VG829L",
+      "name": "What For U",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 18007,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#9PRRGUL9P",
+      "name": "Rohan",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 17999,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#2V0CJV8QR",
+      "name": "Deadpool",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 17954,
+      "icon": {
+        "id": 28000041
+      }
+    },
+    {
+      "tag": "#20U2PV9PY",
+      "name": "€£@¥Ť0Ň_18",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 17934,
+      "icon": {
+        "id": 28000038
+      }
+    },
+    {
+      "tag": "#8VLJV80P",
+      "name": "prince",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 17917,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#228R2UUYY",
+      "name": "Vrtkom🇮🇳",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 17913,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#9L2L82V",
+      "name": "Pro BRAWLER",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 17895,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#2V0VL8YRL",
+      "name": "Kyoya",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 17812,
+      "icon": {
+        "id": 28000008
+      }
+    },
+    {
+      "tag": "#YVU2G8GU",
+      "name": "TOFFEE",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 17788,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#9PYUPPGY",
+      "name": "❄️∆̶ʑгyℓ❄️",
+      "nameColor": "0xfff05637",
+      "role": "vicePresident",
+      "trophies": 17693,
+      "icon": {
+        "id": 28000050
+      }
+    },
+    {
+      "tag": "#8RU8GRLP9",
+      "name": "mr.awesome",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 17691,
+      "icon": {
+        "id": 28000000
+      }
+    },
+    {
+      "tag": "#2LP9Q2RR",
+      "name": "Drigger",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 17656,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#2J9Y2PCJU",
+      "name": "Qwerty_key",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 17649,
+      "icon": {
+        "id": 28000041
+      }
+    },
+    {
+      "tag": "#9RJ2020",
+      "name": "X-man",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 17645,
+      "icon": {
+        "id": 28000011
+      }
+    },
+    {
+      "tag": "#9L9UJJP",
+      "name": "MURTAZA",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 17562,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#29RPU9VY",
+      "name": "◇Dr.Terrified◇",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 17408,
+      "icon": {
+        "id": 28000022
+      }
+    },
+    {
+      "tag": "#2R9LR9UCP",
+      "name": "CHILLI CHICKEN",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 17375,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#8C8CVULLR",
+      "name": "Ft.Shade",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 17325,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#9CR9Y0RGY",
+      "name": "killer machine",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 17324,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#P0LPVR9G0",
+      "name": "~<Legend>~",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 17316,
+      "icon": {
+        "id": 28000019
+      }
+    },
+    {
+      "tag": "#2J9VL90LJ",
+      "name": "Anirudh",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 17283,
+      "icon": {
+        "id": 28000018
+      }
+    },
+    {
+      "tag": "#8C2P2R8UG",
+      "name": "Marshmallow",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 17203,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#2CPQJPCGL",
+      "name": "king alpha",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 17153,
+      "icon": {
+        "id": 28000010
+      }
+    },
+    {
+      "tag": "#20JY9QQJ2",
+      "name": "Demon",
+      "nameColor": "0xfff9c908",
+      "role": "senior",
+      "trophies": 17061,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#9G2YPJLLQ",
+      "name": "pro nav yt",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 17057,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#8GRQVC28C",
+      "name": "AB IN",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 17038,
+      "icon": {
+        "id": 28000048
+      }
+    },
+    {
+      "tag": "#YRQCCQGY9",
+      "name": "ASA6291",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 16985,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#2YC9GRRPV",
+      "name": "justus",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 16966,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#YUQ9PVLV",
+      "name": "❤️RÜDRÄKSH❤️",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 16953,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#2RGRL0G8J",
+      "name": "pavan",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 16929,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#8LJ88LLVU",
+      "name": "deathmatchbrawl",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 16890,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#GLVGCPUL",
+      "name": "Shadow",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 16874,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#YRJQJJ",
+      "name": "Grant 01",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 16868,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#2UV2URU",
+      "name": "Vijay",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 16814,
+      "icon": {
+        "id": 28000005
+      }
+    },
+    {
+      "tag": "#8PUUP29PL",
+      "name": "nightfury",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 16795,
+      "icon": {
+        "id": 28000051
+      }
+    },
+    {
+      "tag": "#8RP0J2YL2",
+      "name": "PROCOdude",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 16791,
+      "icon": {
+        "id": 28000008
+      }
+    },
+    {
+      "tag": "#2LVG22V0P",
+      "name": "CrowGang|Kartik",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 16747,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#PPC29RL8L",
+      "name": "swagstar",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 16666,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#VCC2CG29",
+      "name": "Diwakar_youtube",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 16655,
+      "icon": {
+        "id": 28000053
+      }
+    },
+    {
+      "tag": "#PCRUVPV",
+      "name": "<Dragon Knight>",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 16621,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#99CJCGPJ2",
+      "name": "killer",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 16567,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#2JCVVU0GL",
+      "name": "subrahmanya",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 16560,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#8V9GGYJ0U",
+      "name": "RKV YT",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 16478,
+      "icon": {
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#9QLRPP0L",
+      "name": "Ramesh",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 16469,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#2RY99PGJ",
+      "name": "︻╦̵̵͇̿̿̿̿╤──",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 16437,
+      "icon": {
+        "id": 28000004
+      }
+    },
+    {
+      "tag": "#GJ9JU82C",
+      "name": "Perfectó™",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 16411,
+      "icon": {
+        "id": 28000022
+      }
+    },
+    {
+      "tag": "#J9RJPY8P",
+      "name": "Ayush",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 16332,
+      "icon": {
+        "id": 28000054
+      }
+    },
+    {
+      "tag": "#GG2UPRUJ",
+      "name": "Skull Crusher",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 16259,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#QP8Y9U82",
+      "name": "kingkillerboy",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 16207,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#2Q82V0U8",
+      "name": "YT king brawl",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 16056,
+      "icon": {
+        "id": 28000053
+      }
+    }
+  ]
+}
+}
